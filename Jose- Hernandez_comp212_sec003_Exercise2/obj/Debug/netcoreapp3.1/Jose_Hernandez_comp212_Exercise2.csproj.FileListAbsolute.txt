@@ -1,0 +1,39 @@
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\bin\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.exe
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\bin\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.deps.json
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\bin\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.runtimeconfig.json
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\bin\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.runtimeconfig.dev.json
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\bin\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.dll
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\bin\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.pdb
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\obj\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.csprojAssemblyReference.cache
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\obj\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.AssemblyInfoInputs.cache
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\obj\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.AssemblyInfo.cs
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\obj\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\obj\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.dll
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\obj\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.pdb
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\obj\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.genruntimeconfig.cache
+C:\Users\jose\Downloads\comp212\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\bin\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.exe
+C:\Users\jose\Downloads\comp212\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\bin\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.deps.json
+C:\Users\jose\Downloads\comp212\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\bin\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.runtimeconfig.json
+C:\Users\jose\Downloads\comp212\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\bin\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.runtimeconfig.dev.json
+C:\Users\jose\Downloads\comp212\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\bin\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.dll
+C:\Users\jose\Downloads\comp212\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\bin\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.pdb
+C:\Users\jose\Downloads\comp212\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\obj\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.csprojAssemblyReference.cache
+C:\Users\jose\Downloads\comp212\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\obj\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.AssemblyInfoInputs.cache
+C:\Users\jose\Downloads\comp212\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\obj\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.AssemblyInfo.cs
+C:\Users\jose\Downloads\comp212\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\obj\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\jose\Downloads\comp212\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\obj\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.dll
+C:\Users\jose\Downloads\comp212\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\obj\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.pdb
+C:\Users\jose\Downloads\comp212\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\obj\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.genruntimeconfig.cache
+D:\comp-212 with book\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\bin\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.exe
+D:\comp-212 with book\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\bin\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.deps.json
+D:\comp-212 with book\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\bin\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.runtimeconfig.json
+D:\comp-212 with book\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\bin\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.runtimeconfig.dev.json
+D:\comp-212 with book\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\bin\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.dll
+D:\comp-212 with book\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\bin\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.pdb
+D:\comp-212 with book\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\obj\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.csprojAssemblyReference.cache
+D:\comp-212 with book\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\obj\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.AssemblyInfoInputs.cache
+D:\comp-212 with book\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\obj\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.AssemblyInfo.cs
+D:\comp-212 with book\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\obj\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.csproj.CoreCompileInputs.cache
+D:\comp-212 with book\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\obj\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.dll
+D:\comp-212 with book\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\obj\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.pdb
+D:\comp-212 with book\assinment\Jose-Hernandez_comp212_sec003_lab1\Jose- Hernandez_comp212_sec003_Exercise2\obj\Debug\netcoreapp3.1\Jose_Hernandez_comp212_Exercise2.genruntimeconfig.cache

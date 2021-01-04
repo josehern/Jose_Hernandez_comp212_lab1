@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Jose_Hernandez_comp212_Exercise2/1.0.0": {
+        "runtime": {
+          "Jose_Hernandez_comp212_Exercise2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jose_Hernandez_comp212_Exercise2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
