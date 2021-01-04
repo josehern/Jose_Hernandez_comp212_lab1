@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Jose-Hernandez_comp212_sec003lab1/1.0.0": {
+        "runtime": {
+          "Jose-Hernandez_comp212_sec003lab1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jose-Hernandez_comp212_sec003lab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose-Hernandez_comp212_sec003lab1\bin\Debug\netcoreapp3.1\Jose-Hernandez_comp212_sec003lab1.exe
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose-Hernandez_comp212_sec003lab1\bin\Debug\netcoreapp3.1\Jose-Hernandez_comp212_sec003lab1.deps.json
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose-Hernandez_comp212_sec003lab1\bin\Debug\netcoreapp3.1\Jose-Hernandez_comp212_sec003lab1.runtimeconfig.json
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose-Hernandez_comp212_sec003lab1\bin\Debug\netcoreapp3.1\Jose-Hernandez_comp212_sec003lab1.runtimeconfig.dev.json
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose-Hernandez_comp212_sec003lab1\bin\Debug\netcoreapp3.1\Jose-Hernandez_comp212_sec003lab1.dll
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose-Hernandez_comp212_sec003lab1\bin\Debug\netcoreapp3.1\Jose-Hernandez_comp212_sec003lab1.pdb
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose-Hernandez_comp212_sec003lab1\obj\Debug\netcoreapp3.1\Jose-Hernandez_comp212_sec003lab1.csprojAssemblyReference.cache
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose-Hernandez_comp212_sec003lab1\obj\Debug\netcoreapp3.1\Jose-Hernandez_comp212_sec003lab1.AssemblyInfoInputs.cache
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose-Hernandez_comp212_sec003lab1\obj\Debug\netcoreapp3.1\Jose-Hernandez_comp212_sec003lab1.AssemblyInfo.cs
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose-Hernandez_comp212_sec003lab1\obj\Debug\netcoreapp3.1\Jose-Hernandez_comp212_sec003lab1.csproj.CoreCompileInputs.cache
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose-Hernandez_comp212_sec003lab1\obj\Debug\netcoreapp3.1\Jose-Hernandez_comp212_sec003lab1.dll
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose-Hernandez_comp212_sec003lab1\obj\Debug\netcoreapp3.1\Jose-Hernandez_comp212_sec003lab1.pdb
+C:\Users\jose\source\repos\Jose-Hernandez_comp212_sec003_lab1\Jose-Hernandez_comp212_sec003lab1\obj\Debug\netcoreapp3.1\Jose-Hernandez_comp212_sec003lab1.genruntimeconfig.cache
